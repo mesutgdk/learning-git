@@ -2,6 +2,6 @@
 hedefimiz %50ye ulaşmak gün içerisinde
 
 18.12.2022 pazar
-%46 tamamlandı userdefaults, encoder ve decoder ile data storage öğrenildi
+%46 tamamlandı userdefaults, encoder ve decoder ile data storage öğrenildi.
 
 database'e giriş yapıldı, SQlite - Core Data - Realm derslerine gelindi
