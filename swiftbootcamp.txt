@@ -9,3 +9,4 @@ database'e giriş yapıldı, SQlite - Core Data - Realm derslerine gelindi
 19.12.2022 pazartesi
 %47 tamamlandı, userdafaults, encoder sonrasında Core Data hakkında ders yapıldı
 
+SQLite üzerinden data storage yapıldı, datalar kaydedildi, kaydedilen datanın geri kullanılması yarına kaldı
