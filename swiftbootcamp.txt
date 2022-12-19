@@ -1,7 +1,11 @@
 18.12.2022 - udemy Angela Yu swift bootcampin %45i tamamlandı
-hedefimiz %50ye ulaşmak gün içerisinde
+hedefimiz %50ye ulaşmak
 
 18.12.2022 pazar
 %46 tamamlandı userdefaults, encoder ve decoder ile data storage öğrenildi.
 
 database'e giriş yapıldı, SQlite - Core Data - Realm derslerine gelindi
+
+19.12.2022 pazartesi
+%47 tamamlandı, userdafaults, encoder sonrasında Core Data hakkında ders yapıldı
+
