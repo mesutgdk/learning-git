@@ -1,28 +1,31 @@
 21.12.2022 Çarşamba
 %49 tamamlandı
+TodoEy uygulamasında:
 Core Data'da Query yapıldı
 UISearchBar Kullanılarak fonksiyonlar tamamlandı.
 NSPredicate Kullanıldı, case ve diacritic ler hesaba katılarak UISearchBar düzenlendi
 Arama bitişinde ana ekranın yüklenmemesi hatası çözüldü.
+tableView loadItems fonksiyonu güncellendi, ekranda dataların sürekli güncel olması sağlandı.
 
 20.12.2022 Salı
 %48 tamamlandı
+TodoEy uygulamasında:
 Core Data'da data update yapıldı
 Core Data'da data delete yapıldı
 CRUD'un tüm aşamaları tamamlandı
 
 
 19.12.2022 pazartesi
-%47 tamamlandı, userdafaults, encoder sonrasında Core Data hakkında ders yapıldı
-CRUD un create ve read kısımları tamamlandı
-
-SQLite üzerinden data storage yapıldı, datalar kaydedildi, kaydedilen datanın geri kullanılması yarına kaldı
+%47 tamamlandı:
+TodoEy uygulamasında:
+userdafaults, encoder sonrasında Core Data konusuna giriş yapıldı,
+CRUD un create ve read kısımları tamamlandı,
+SQLite üzerinden data storage yapıldı, datalar kaydedildi.
 
 18.12.2022 pazar
-udemy Angela Yu swift bootcampin %45i tamamlandı
-
-%46 tamamlandı userdefaults, encoder ve decoder ile data storage öğrenildi.
-
+udemy Angela Yu swift bootcampin %45i tamamlandı.
+TodoEy uygulamasında:
+userdefaults, encoder ve decoder ile data storage öğrenildi.
 database'e giriş yapıldı, SQlite - Core Data - Realm derslerine gelindi
 
 
