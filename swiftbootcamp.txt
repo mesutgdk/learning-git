@@ -1,7 +1,9 @@
 21.12.2022 Çarşamba
 %49 tamamlandı
 Core Data'da Query yapıldı
-UISearchBar Kullanılarak fonksiyonlar tamamlandı
+UISearchBar Kullanılarak fonksiyonlar tamamlandı.
+NSPredicate Kullanıldı, case ve diacritic ler hesaba katılarak UISearchBar düzenlendi
+Arama bitişinde ana ekranın yüklenmemesi hatası çözüldü.
 
 20.12.2022 Salı
 %48 tamamlandı
