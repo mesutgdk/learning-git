@@ -6,6 +6,7 @@ UISearchBar Kullanılarak fonksiyonlar tamamlandı.
 NSPredicate Kullanıldı, case ve diacritic ler hesaba katılarak UISearchBar düzenlendi
 Arama bitişinde ana ekranın yüklenmemesi hatası çözüldü.
 tableView loadItems fonksiyonu güncellendi, ekranda dataların sürekli güncel olması sağlandı.
+ToDoList hücrelerinin grup ayrımlarını ve renklendirmelerini sağlamak için yeni bir tableViewController oluşturuldu.
 
 20.12.2022 Salı
 %48 tamamlandı
