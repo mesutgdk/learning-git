@@ -1,11 +1,8 @@
 22.12.2022 Perşembe
 %49 tamamlandı
 Todoey uygulamasının uygulama kısmına geçildi, konular tekrar baştan uygulandı.
-BarButtonItem fonksiyonlarında UIAlertAction kullanılarak uyarı balonu çıkarıldı
-
-
-
-
+BarButtonItem fonksiyonlarında UIAlertAction kullanılarak uyarı balonu çıkarıldı.
+Balona yazılan item ekranda yazdırıldı, Database kullanılmadı, uygulamadan çıkınca bilgiler kayboluyor.
 
 21.12.2022 Çarşamba
 %49 tamamlandı
