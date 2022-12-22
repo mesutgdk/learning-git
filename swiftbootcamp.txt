@@ -1,6 +1,6 @@
 22.12.2022 Perşembe
 %49 tamamlandı
-
+Todoey uygulamasının uygulama kısmına geçildi, konular tekrar baştan uygulandı
 
 21.12.2022 Çarşamba
 %49 tamamlandı
