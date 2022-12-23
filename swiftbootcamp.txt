@@ -2,7 +2,8 @@
 %49 tamamlandı
 Todoey app userdefaults uygulaması yapıldı.
 userdefaults un artılarını ve eksilerini gördük, çok kısıtlı bir alan sunuyor ve bilgi arttıkça performans düşüyor,
-bu yüzden basit bilgilerin depolanmasında kullanılmalı
+bu yüzden basit bilgilerin depolanmasında kullanılmalı.
+NSCoder ile bilgilerimizi ve checkmark'ları kaydettik.
 
 22.12.2022 Perşembe
 %49 tamamlandı
