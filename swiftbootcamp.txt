@@ -4,6 +4,7 @@ Todoey app userdefaults uygulaması yapıldı.
 userdefaults un artılarını ve eksilerini gördük, çok kısıtlı bir alan sunuyor ve bilgi arttıkça performans düşüyor,
 bu yüzden basit bilgilerin depolanmasında kullanılmalı.
 NSCoder ile bilgilerimizi ve checkmark'ları kaydettik.
+CoreData'da CRUD; Create ve Read yapıldı
 
 22.12.2022 Perşembe
 %49 tamamlandı
