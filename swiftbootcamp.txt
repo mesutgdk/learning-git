@@ -1,3 +1,8 @@
+24.12.2022 Cumartesi
+%49 tamamlandı
+Todoey app CoreDataya geçildi
+Itemların yeni kategori altına alınması yapıldı.
+
 23.12.2022 Cuma
 %49 tamamlandı
 Todoey app userdefaults uygulaması yapıldı.
