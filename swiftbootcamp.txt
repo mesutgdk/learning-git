@@ -2,6 +2,7 @@
 %49 tamamlandı
 Todoey app CoreDataya geçildi
 Itemların yeni kategori altına alınması yapıldı.
+Search Bar eklendi, searchBar'ın kullanımı bitimiyle ekranın yüklenmemesi ve klavyenin ekrandan gitmeme hatası düzeltildi
 
 23.12.2022 Cuma
 %49 tamamlandı
