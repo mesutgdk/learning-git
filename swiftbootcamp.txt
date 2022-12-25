@@ -3,6 +3,7 @@
 Todoey app CoreDataya geçildi
 Itemların yeni kategori altına alınması yapıldı.
 Search Bar eklendi, searchBar'ın kullanımı bitimiyle ekranın geri yüklenmemesi ve klavyenin ekrandan gitmeme hatası düzeltildi.
+DataItem'da yeni kategori açıldı.
 
 
 23.12.2022 Cuma
