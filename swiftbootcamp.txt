@@ -1,3 +1,8 @@
+27.12.2022 Salı
+%49 tamamlandı
+Realm database data kayıtı yapıldı,
+CMD Shift G kısa yolu, istenilen dosyaya giriş kestirmesi
+
 26.12.2022 Pazartesi
 %49 tamamlandı
 Todoey app Realm database geçildi.
