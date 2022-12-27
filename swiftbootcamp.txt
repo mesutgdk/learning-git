@@ -1,3 +1,6 @@
+28.12.2022 Çarşamba
+ToDoey app Realm database kullanılmaya başlanması
+
 27.12.2022 Salı
 %49 tamamlandı
 Realm database data kayıtı yapıldı,
