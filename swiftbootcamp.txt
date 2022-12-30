@@ -1,5 +1,7 @@
 30.12.2022 Cuma 
 H4EZOR swiftUI app yüklendi, bağlantı ayarları ayarlandı.
+
+
 28.12.2022 Çarşamba
 ToDoey app Realm database kullanılmaya başlanması.
 ToDoey app SQL'den Realm'e geçiş sağlandı.
