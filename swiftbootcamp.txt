@@ -1,3 +1,7 @@
+31.12.2022
+Core Data ile ilgili uygulama yapıldı, repo learning swifte yüklendi.
+
+
 30.12.2022 Cuma 
 H4EZOR swiftUI app yüklendi, bağlantı ayarları ayarlandı.
 
