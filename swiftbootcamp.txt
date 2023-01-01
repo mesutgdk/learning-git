@@ -1,4 +1,8 @@
-31.12.2022
+01.01.2022 Pazar
+Todoey app Realm kullanılarak CRUD Create yapıldı
+
+
+31.12.2022Cumartesi
 Core Data ile ilgili uygulama yapıldı, repo learning swifte yüklendi.
 
 
