@@ -1,3 +1,6 @@
+03.01.2022 Salı
+Realm için indirilen Cocoapods problmeler karşılaşıldı.
+
 02.01.2022 Pazartesi
 Todoey app query Realm içerisinde.
 
