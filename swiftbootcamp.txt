@@ -1,3 +1,6 @@
+04.01.2022 Çarşamba
+
+
 03.01.2022 Salı
 Realm için indirilen Cocoapods problmeler karşılaşıldı.
 
