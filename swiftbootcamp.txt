@@ -3,6 +3,7 @@ Cocoapods paketleri indirmede ve app'e entegre etmede sorun yaşanılıyor.
 Sanal Makine üzerinden macOS kullanıldığı için önceki sürümleri üzerinden uygulama yapılıyor. 
 Bunun getirdiği problemler yeni güncellemeleri kullanamama, yeni sistemleri entegre edememe.
 Bu sebeplerden dolayı sanal makine üzerinden macOS'e erişim gerçekleştiremiyorum.
+Tekrar giriş yapabilmek için sıfırdan yükleme yapılacak.
 
 04.01.2022 Çarşamba
 CoreData üzerinden yapılmış uygulama gözden geçirildi, hithub üzerindeki değişikler kontrol edildi.
