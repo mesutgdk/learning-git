@@ -1,5 +1,6 @@
 07.01.2022 Cumartesi
-VW yeniden yüklendi, macOS 10.15.7 yüklendi
+VW yeniden yüklendi, macOS 10.15.7 yüklendi.
+Xcode 14.4 yüklendi. 
 
 05.01.2022 Perşembe
 Cocoapods paketleri indirmede ve app'e entegre etmede sorun yaşanılıyor.
