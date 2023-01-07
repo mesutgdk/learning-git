@@ -1,3 +1,6 @@
+07.01.2022 Cumartesi
+VW yeniden yüklendi, macOS 10.15.7 yüklendi
+
 05.01.2022 Perşembe
 Cocoapods paketleri indirmede ve app'e entegre etmede sorun yaşanılıyor.
 Sanal Makine üzerinden macOS kullanıldığı için önceki sürümleri üzerinden uygulama yapılıyor. 
