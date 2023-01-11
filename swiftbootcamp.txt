@@ -1,3 +1,7 @@
+11.01.2022 Çarşamba
+Todoey app tamamlandı, sadece item girişi yapıldığında hücrelerin renk değiştirmesi istenmediği için uygulanmadı
+SwipeViewController'a diğer VC ler subclass atandı, app'ın çalışması kontrol edildi, tm fonksiyonlar denendi.
+
 07.01.2022 Cumartesi
 VW yeniden yüklendi, macOS 10.15.7 yüklendi.
 Xcode 14.4 yüklendi. 
