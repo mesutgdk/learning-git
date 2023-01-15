@@ -1,3 +1,6 @@
+15.01.2022 Cumartesi
+segment değişimi ve intaş işleri görsellere eklendi.
+
 13.01.2022 Cuma
 2022 yılı içerisinde yapılan işlerin özeti eklendi.
 EAC80-EAC10 Hatlarının ksıaca özeti geçildi.
