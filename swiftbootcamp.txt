@@ -2,6 +2,7 @@
 In-App Purchase esnasında Apple developer sayfasında nelerin sekron olması gerektiği yapıldı.
 Uygulama silinmesi durumunda premium edition özellikleri gitmesin diye kayıt altına alındı.
 Yine de oluşabilecek uygulama hatalarına karşı restore button eklendi.
+IOS yeni güncelleme gelse dahi sandboxtaki bilgiler geçse dahi kayıt altına alınan premium kalıcı olacak.
 
 21.01.2022 Cumartesi
 IOS bootcamp in-app purchase konusuna devam edildi.
