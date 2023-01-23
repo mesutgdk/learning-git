@@ -1,3 +1,6 @@
+23.01.2022 Pazartesi
+In-App purchuse yapılırken sandbox uygulandı.
+
 22.01.2022 Pazar
 In-App Purchase esnasında Apple developer sayfasında nelerin sekron olması gerektiği yapıldı.
 
