@@ -1,6 +1,7 @@
 22.01.2022 Pazar
 In-App Purchase esnasında Apple developer sayfasında nelerin sekron olması gerektiği yapıldı.
-uygulama silinmesi durumunda premium edition özellikleri gitmesin diye kayıt altına alındı.
+Uygulama silinmesi durumunda premium edition özellikleri gitmesin diye kayıt altına alındı.
+
 
 21.01.2022 Cumartesi
 IOS bootcamp in-app purchase konusuna devam edildi.
