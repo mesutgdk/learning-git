@@ -2,7 +2,7 @@
 Stored properties vs calculated properities arasındaki farklar görüldü.
 Calculated property e getter uygulandı.
 Setter uygulandı.
-
+Playground üzerinden pizza dilimleme ve sipariş uygulaması yapıldı.
 
 23.01.2022 Pazartesi
 In-App Purchase esnasında Apple developer sayfasında nelerin sekron olması gerektiği yapıldı.
