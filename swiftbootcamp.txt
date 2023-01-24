@@ -1,3 +1,6 @@
+24.01.2022 Salı
+Stored properties vs calculated properities arasındaki farklar görüldü.
+
 
 23.01.2022 Pazartesi
 In-App Purchase esnasında Apple developer sayfasında nelerin sekron olması gerektiği yapıldı.
