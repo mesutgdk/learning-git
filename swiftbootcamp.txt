@@ -1,3 +1,6 @@
+25.01.2022 Çarşamba
+Advanced Swift programın giriş yapıldı.
+
 24.01.2022 Salı
 Stored properties vs calculated properities arasındaki farklar görüldü.
 Calculated property e getter uygulandı.
