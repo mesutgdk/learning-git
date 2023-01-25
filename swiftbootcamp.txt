@@ -1,5 +1,6 @@
 25.01.2022 Çarşamba
 Advanced Swift programın giriş yapıldı.
+Getter ve setter lar hakkında problemler-çalışma soruları çözüldü.
 
 24.01.2022 Salı
 Stored properties vs calculated properities arasındaki farklar görüldü.
@@ -24,7 +25,7 @@ IOSH Managing safety kursu tamamlandı.
 Risk değerlendirme projesi 15 gün süreyle teslim alındı.
 
 19.01.2022 Perşembe
-IOSH Managing safety kursuna katılındı.
+IOSH Managing safety kursuna katılım sağlandı.
 Yasal mevzuat hakkında bilgi verildi.
 3 conditions değerlendirildi. Ofis, saha ve fabrika değerlendirmeleri yapıldı.
 
