@@ -1,3 +1,7 @@
+26.01.2022 Perşembe
+Swift access level başlandı.
+5 farklı level incelendi, ders quizi apıldı.
+
 25.01.2022 Çarşamba
 Advanced Swift programın giriş yapıldı.
 Getter ve setter lar hakkında problemler-çalışma soruları çözüldü.
