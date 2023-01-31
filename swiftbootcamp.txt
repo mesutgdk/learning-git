@@ -1,3 +1,7 @@
+31.01.2023 Salı
+Advanced swift tamamlandı.
+calculator app computed propert kullanılarak tekrar dizayn edildi.
+
 30.01.2023 Pazartesi
 advanced swift dersleri devam ediyor.
 
