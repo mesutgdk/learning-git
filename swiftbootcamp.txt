@@ -1,6 +1,7 @@
 03.02.2023 Cuma
 Machine learning bölümünde kemara ve hafıza kullanımı izin alınımı uygulandı.
 imagePicker.sourceType .photoLibrari'ye alınarak kütüphaneye ulaşım sağlandı.
+guard let ile if let arasındaki farklar uygulama ile görüldü.
 
 02.02.2023 Perşembe
 Machine learning girişi yapıldı.
