@@ -3,6 +3,7 @@ Machine learning bölümünde kemara ve hafıza kullanımı izin alınımı uygu
 imagePicker.sourceType .photoLibrari'ye alınarak kütüphaneye ulaşım sağlandı.
 guard let ile if let arasındaki farklar uygulama ile görüldü.
 handler kısmına do ve try eklendi.
+detect methodu eklendi.
 
 02.02.2023 Perşembe
 Machine learning girişi yapıldı.
