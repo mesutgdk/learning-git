@@ -1,3 +1,6 @@
+05.02.2023 Cumartesi
+Advanced CoreML farklı pathden devam edildi.
+
 03.02.2023 Cuma
 Machine learning bölümünde kemara ve hafıza kullanımı izin alınımı uygulandı.
 imagePicker.sourceType .photoLibrari'ye alınarak kütüphaneye ulaşım sağlandı.
