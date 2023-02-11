@@ -1,3 +1,6 @@
+11.02.2023 Cumartesi
+Advanced swift devam ederken machine learning kısmında aygıt yönetimi gözden geçirildi.
+
 09.02.2023 Perşembe
 Deprem sonrası ilk bakış.
 
