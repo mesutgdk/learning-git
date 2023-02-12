@@ -1,3 +1,6 @@
+12.02.2023 Pazar
+Swift CoreML advanced completed
+
 11.02.2023 Cumartesi
 Advanced swift devam ederken machine learning kısmında aygıt yönetimi gözden geçirildi.
 
