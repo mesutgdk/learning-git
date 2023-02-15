@@ -1,6 +1,7 @@
 15.02.2023 Çarşamba
 ML kullanarak çekilen fotolardaki flower tiplerin tanımlarına ulaşım sağlandı.
 wikipediadan JSON üzerinden bilgi akışı sağlayıp, bitki familyası hakkında kısa özet bilgiler sunuldu.
+COcoapods SDWebImage kullanark JSON üzerinden image görüntülemeye başlandı.
 
 12.02.2023 Pazar
 Swift CoreML advanced completed
