@@ -1,3 +1,6 @@
+15.02.2023 Çarşamba
+ML kullanarak çekilen fotolardaki flower tiplerin tanımlarına ulaşım sağlandı.
+
 12.02.2023 Pazar
 Swift CoreML advanced completed
 
