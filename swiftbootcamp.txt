@@ -1,5 +1,6 @@
 16.02.2023 Perşembe
 Kendi ML inşaası dersi yapıldı.
+ML öğretirken training data ve testin data kısımları yapıldı.
 
 15.02.2023 Çarşamba
 ML kullanarak çekilen fotolardaki flower tiplerin tanımlarına ulaşım sağlandı.
