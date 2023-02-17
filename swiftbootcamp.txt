@@ -1,6 +1,7 @@
 17.02.2023 Cuma
 CoreML 2 dersine başlandı.
 Yerel dil prosesine giriş yapıldı.
+Twitter analiz kurulumuna başlanıldı.
 
 16.02.2023 Perşembe
 Kendi ML inşaası dersi yapıldı.
