@@ -1,3 +1,6 @@
+18.02.2023 Cumartesi
+Machine learning testing yapıldı.
+
 17.02.2023 Cuma
 CoreML 2 dersine başlandı.
 Yerel dil prosesine giriş yapıldı.
