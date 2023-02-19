@@ -1,5 +1,6 @@
 19.02.2023 Pazar
 Twitter sentiment analysis'a giriş yapıldı ( duygu analizi).
+Yazacağımız hashTag ile twitterda bu hashTag ile ilgili ne düşünülüyor, bunu emojilerle kullanıcılara sunacagız.
 
 18.02.2023 Cumartesi
 Machine learning testing yapıldı.
