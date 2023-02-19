@@ -1,3 +1,6 @@
+19.02.2023 Pazar
+Twitter sentiment analysis'a giriş yapıldı
+
 18.02.2023 Cumartesi
 Machine learning testing yapıldı.
 
