@@ -2,6 +2,7 @@
 Twitter developer hesabı açıldı, veri akışı kontrol edildi.
 Swifter framework yüklendi, cihaza kuruldu.
 Twitter güncel dataları xcode üzerinden alındı.
+ML sayesinde tweetlerin duygu sınıflandırılması yapıldı.
 
 19.02.2023 Pazar
 Twitter sentiment analysis'a giriş yapıldı ( duygu analizi).
