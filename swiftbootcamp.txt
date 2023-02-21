@@ -1,6 +1,7 @@
 21.02.2023 Salı
 JSON'dan çekilen tahminler işlendi.
-Do catch block yapılarak hata vermesi durumunda aksiyon allınması için önlem koyuldu.
+Do catch block yapılarak hata vermesi durumunda aksiyon allınması için önlem koyuldu.Çıkan tahmine yönelik kullanılacak emojiler ayarlandı.
+Code refactoring yani kodun düzenlenmesi yapıldı, 3 adet yeni fonsiyon kuruldu, mono bloktan 4 aşamalı koda geçiş yapıldı.
 
 20.02.2023 Pazartesi
 Twitter developer hesabı açıldı, veri akışı kontrol edildi.
