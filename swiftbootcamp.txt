@@ -1,3 +1,6 @@
+21.02.2023 Salı
+JSON'dan çekilen tahminler işlendi.
+
 20.02.2023 Pazartesi
 Twitter developer hesabı açıldı, veri akışı kontrol edildi.
 Swifter framework yüklendi, cihaza kuruldu.
