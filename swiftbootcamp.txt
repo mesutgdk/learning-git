@@ -1,5 +1,6 @@
 21.02.2023 Salı
 JSON'dan çekilen tahminler işlendi.
+Do catch block yapılarak hata vermesi durumunda aksiyon allınması için önlem koyuldu.
 
 20.02.2023 Pazartesi
 Twitter developer hesabı açıldı, veri akışı kontrol edildi.
