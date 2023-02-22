@@ -1,6 +1,7 @@
 22.02.2022 Çarşamba
 ARKIT Augmented Reality'e giriş yapıldı. Fiziki cihaz ve mac olmadığı için sadece kod yazarak uygulama yapıldı.
 Yatay yüzeyde düz bir alanı 3D olacak şekilde tanımlaması yapıldı.
+Ekrana yapılan tıklamalarda 2D izdüşümü 3D üzerinde dokunma yapıldı ve eklenen 3D zer ile her tuşlamada zar eklendi.
 
 21.02.2023 Salı
 JSON'dan çekilen tahminler işlendi.
