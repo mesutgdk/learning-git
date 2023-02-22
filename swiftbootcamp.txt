@@ -1,3 +1,6 @@
+22.02.2022 Çarşamba
+ARKIT Augmented Reality'e giriş yapıldı. Fiziki cihaz ve mac olmadığı için sadece kod yazarak uygulama yapıldı.
+
 21.02.2023 Salı
 JSON'dan çekilen tahminler işlendi.
 Do catch block yapılarak hata vermesi durumunda aksiyon allınması için önlem koyuldu.Çıkan tahmine yönelik kullanılacak emojiler ayarlandı.
