@@ -1,3 +1,6 @@
+23.02.2022 Perşembe
+Augmented Reality kullanarak pokemon go animasyonlu görüntü elde edildi.
+
 22.02.2022 Çarşamba
 ARKIT Augmented Reality'e giriş yapıldı. Fiziki cihaz ve mac olmadığı için sadece kod yazarak uygulama yapıldı.
 Yatay yüzeyde düz bir alanı 3D olacak şekilde tanımlaması yapıldı.
