@@ -1,6 +1,6 @@
 25.02.2023 Cumartesi
-ARKit kullanarak gazete üzerindeki resimler üzerinde video oynatan uygulama geliştirildi. 
-IOS kursu dersleri tamamlandı.
+ARKit kullanarak gazete üzerindeki resimler üzerinde video oynatan uygulama geliştirildi.
+IOS kursu dersleri tamamlandı. 
 
 23.02.2023 Perşembe
 Augmented Reality kullanarak pokemon go animasyonlu görüntü elde edildi.
