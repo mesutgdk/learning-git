@@ -1,7 +1,11 @@
-23.02.2022 Perşembe
+25.02.2023 Cumartesi
+ARKit kullanarak gazete üzerindeki resimler üzerinde video oynatan uygulama geliştirildi. 
+IOS kursu dersleri tamamlandı.
+
+23.02.2023 Perşembe
 Augmented Reality kullanarak pokemon go animasyonlu görüntü elde edildi.
 
-22.02.2022 Çarşamba
+22.02.2023 Çarşamba
 ARKIT Augmented Reality'e giriş yapıldı. Fiziki cihaz ve mac olmadığı için sadece kod yazarak uygulama yapıldı.
 Yatay yüzeyde düz bir alanı 3D olacak şekilde tanımlaması yapıldı.
 Ekrana yapılan tıklamalarda 2D izdüşümü 3D üzerinde dokunma yapıldı ve eklenen 3D zer ile her tuşlamada zar eklendi.
