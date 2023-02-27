@@ -3,6 +3,7 @@ TableViewDataSource delegate methodu ve gerekli fonsiyonları üzerine örnekler
 Ternary Operator uygulamaası yapıldı.
 sand Boxind, NSCoder uygulamaları incelendi.
 Fetch data ve load items uygulamaları incelendi.
+Savin data to firebase konusuna değinildi.
 
 26.02.2023 Pazar
 Udemy IOS bootcamp ders notlarının sınıflandırılması ve tekrarı yapıldı.
