@@ -1,3 +1,6 @@
+27.02.2023 Pazartesi
+TableViewDataSource delegate methodu ve gerekli fonsiyonları üzerine örnekler yapıldı.
+
 26.02.2023 Pazar
 Udemy IOS bootcamp ders notlarının sınıflandırılması ve tekrarı yapıldı.
 
