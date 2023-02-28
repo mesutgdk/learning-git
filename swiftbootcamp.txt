@@ -1,3 +1,6 @@
+28.02.2023 Salı
+30 günlük swift projelere başlanıldı.
+
 27.02.2023 Pazartesi
 TableViewDataSource delegate methodu ve gerekli fonsiyonları üzerine örnekler yapıldı.
 Ternary Operator uygulamaası yapıldı.
