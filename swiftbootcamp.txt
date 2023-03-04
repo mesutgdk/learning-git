@@ -1,5 +1,6 @@
 04.03.2023 Cumartesi
 krenotmetre uygulaması tamamlandı.
+font değiştirme uygulaması yamamlandı.
 
 28.02.2023 Salı
 30 günlük swift projelere başlanıldı.
